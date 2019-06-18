@@ -1,0 +1,9 @@
+name: pi_montecarlo_environment
+channels:
+  - conda-forge
+dependencies:
+  - jupyter_contrib_nbextensions
+  - numpy
+  - matplotlib
+  - rise
+  - pandas
