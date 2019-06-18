@@ -1,5 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stephensekula/hep-flavor-tagging-lectures
-/master?filepath=lecture001-theory-and-basic-tracking.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stephensekula/hep-flavor-tagging-lectures/master?filepath=lecture001-theory-and-basic-tracking.ipynb)
 
 # Running
 
