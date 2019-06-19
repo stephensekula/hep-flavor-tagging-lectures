@@ -4,6 +4,7 @@ channels:
 dependencies:
   - jupyter_contrib_nbextensions
   - numpy
+  - scipy
   - matplotlib
   - rise
   - pandas
